@@ -8,7 +8,7 @@
         "authentication": {},
         "body": {
             "mimeType": "application/json",
-            "text": "{\n\t\"op\":\"token-get\",\n\t\"userId\":\"[insert username]\",\n\t\"[insert password]\":\"x\"\n}"
+            "text": "{\n\t\"op\":\"token-get\",\n\t\"userId\":\"[insert username]\",\n\t\"password\":\"[insert password]\"\n}"
         },
         "created": 1597844047607,
         "description": "",
@@ -1382,7 +1382,7 @@
         "authentication": {},
         "body": {
             "mimeType": "application/json",
-            "text": "{\n\t\"op\":\"user-add\",\t\n\t\"id\":\"[insert username]\",\n\t\"[insert password]\":\"ins3cur3\",\n\t\"admin\":0,\n\t\"name\":\"J6\",\n\t\"email\":\"\"\n}\n"
+            "text": "{\n\t\"op\":\"user-add\",\t\n\t\"id\":\"[insert username]\",\n\t\"password\":\"[insert password]\",\n\t\"admin\":0,\n\t\"name\":\"J6\",\n\t\"email\":\"\"\n}\n"
         },
         "created": 1599052869329,
         "description": "",
@@ -1416,7 +1416,7 @@
         "authentication": {},
         "body": {
             "mimeType": "application/json",
-            "text": "{\n\t\"op\":\"user-update\",\t\n\t\"id\":\"[insert username]\",\n\t\"[insert password]\":\"x\",\n\t\"admin\":1,\n\t\"name\":\"J45\",\n\t\"active\":1,\n\t\"email\":null\n}"
+            "text": "{\n\t\"op\":\"user-update\",\t\n\t\"id\":\"[insert username]\",\n\t\"password\":\"[insert password]\",\n\t\"admin\":1,\n\t\"name\":\"J45\",\n\t\"active\":1,\n\t\"email\":null\n}"
         },
         "created": 1599052992510,
         "description": "",
