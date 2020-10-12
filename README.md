@@ -1,2 +1,3 @@
-# pogi-api-insomnia-workspace
-Insomnia Workspace for pogi api
+# Pogi API - Insomnia workspace
+
+[Insomnia](https://insomnia.rest/) Workspace for Pogi API
