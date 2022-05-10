@@ -1,3 +1,2 @@
-# Pogi API - Insomnia workspace
+[Insomnia](https://insomnia.rest/) workspace for [Pogi API](https://www.simplyrfid.com/manuals/pogi-api-manual/)
 
-[Insomnia](https://insomnia.rest/) Workspace for Pogi API
